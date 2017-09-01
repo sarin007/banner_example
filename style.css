@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  height: 600px;
+}
+
+li {
+  display: inline-block;
+  color:white;
+  margin-right: 10px;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+
+.test {
+  padding-top: 15px;
+}
+/*.banner-header {
+   background-image: url("banner_3.png");
+   background-repeat: no-repeat;
+   background-size: 100% auto;
+}*/
